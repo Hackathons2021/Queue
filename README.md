@@ -7,3 +7,6 @@ We plan to expand it to include all establshments in a area.
 # How it works
 
 A firebase backend connects the two sides of the app - Customer and Business. Login has been made password-free with the support of SawoLabs.
+
+# APK Link
+<a href="https://drive.google.com/drive/folders/1JUc3hzAF85ZEpmhYNcBkXeq8cPyMRc23?usp=sharing">Click Me</a>
