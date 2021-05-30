@@ -43,11 +43,6 @@ class QueueFragment : Fragment() {
 
         listView = root.findViewById(R.id.list_queue)
         val waitLine = arrayListOf<String>()
-
-        val mainHandler = Handler(Looper.getMainLooper())
-
-        mainHandler.post(object : Runnable {
-            override fun run() {
                 myRef.child("users").child(userId).child("numberOfSessions").get()
                     .addOnSuccessListener {
                         var sessionNumber = it.value.toString().toInt()
@@ -91,9 +86,7 @@ class QueueFragment : Fragment() {
 
                             }
                     }
-                mainHandler.postDelayed(this, 3000)
-            }
-        })
+
 
         //listView.setOn
 

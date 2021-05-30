@@ -48,11 +48,6 @@ class RequestFragment : Fragment() {
 
         val userId = FirebaseAuth.getInstance().currentUser.uid
         Log.d("userId", userId)
-
-        val mainHandler = Handler(Looper.getMainLooper())
-
-        mainHandler.post(object : Runnable {
-            override fun run() {
                 myRefb.child("users").child(userId).child("numberOfSessions").get()
                     .addOnSuccessListener {
                         Log.d("AAA", userId)
@@ -92,9 +87,7 @@ class RequestFragment : Fragment() {
                                 }
                             }
                     }
-                mainHandler.postDelayed(this, 3000)
-            }
-        })
+
         //val textView: TextView = root.findViewById(R.id.text_request)
         //requestViewModel.text.observe(viewLifecycleOwner, Observer {
         //   textView.text = it

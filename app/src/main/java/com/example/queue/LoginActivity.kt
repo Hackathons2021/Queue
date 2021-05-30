@@ -13,17 +13,17 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login4)
 
-        tv_register.setOnClickListener {
-            val intent =
-                Intent(
-                    this@LoginActivity,
-                    RegisterActivity::class.java
-                )
-            intent.flags =
-                Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
-            startActivity(intent)
-            finish()
-        }
+//        tv_register.setOnClickListener {
+//            val intent =
+//                Intent(
+//                    this@LoginActivity,
+//                    RegisterActivity::class.java
+//                )
+//            intent.flags =
+//                Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
+//            startActivity(intent)
+//            finish()
+//        }
 
         btn_login.setOnClickListener {
             when {
