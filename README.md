@@ -1,14 +1,13 @@
 # Queue App
 An app that aids establishments in enforcing social distancing measures with a crowd management system. The app enables the shop to organize customers in a queue. The app notifies the user when it is his turn in the queue to approach the shop. The user can join a queue by a simple input of the shop's unique code.
 
-![0adcd1awhatsapp_image_2021_05_30_at_11_45_09](https://user-images.githubusercontent.com/77834936/129374157-471d082e-867c-4b96-8778-84c043c1db8e.jpeg)
-![01de624whatsapp_image_2021_05_30_at_11_41_03__1_](https://user-images.githubusercontent.com/77834936/129374162-0a7510d0-917e-4d72-91ff-fa7c88b22599.jpeg)
-![077bf7cwhatsapp_image_2021_05_30_at_11_41_10](https://user-images.githubusercontent.com/77834936/129374165-3fb84cbb-875d-4155-bd07-ef717f568ae7.jpeg)
-![04672fewhatsapp_image_2021_05_30_at_11_41_03__2_](https://user-images.githubusercontent.com/77834936/129374167-f49e6954-7e25-41d9-a10e-5d8a09206395.jpeg)
-![09536cdwhatsapp_image_2021_05_30_at_11_45_06](https://user-images.githubusercontent.com/77834936/129374171-ba0cf3aa-5430-40ee-b75d-e7374cf471ad.jpeg)
-![f7d199ewhatsapp_image_2021_05_30_at_11_41_02](https://user-images.githubusercontent.com/77834936/129374175-b4fd4105-bfb4-4472-a824-1e0f40184736.jpeg)
-![fd9fc3fwhatsapp_image_2021_05_30_at_11_41_02__1_](https://user-images.githubusercontent.com/77834936/129374178-c5446f3e-de80-4d4e-82d7-f20479b1d869.jpeg)
-![fff1009whatsapp_image_2021_05_30_at_11_41_03](https://user-images.githubusercontent.com/77834936/129374181-78b76c1b-1c73-4555-9cb7-0646a6888c13.jpeg)
+<img src="https://user-images.githubusercontent.com/77834936/129374157-471d082e-867c-4b96-8778-84c043c1db8e.jpeg" width="400" height="700"/> <img src="https://user-images.githubusercontent.com/77834936/129374162-0a7510d0-917e-4d72-91ff-fa7c88b22599.jpeg" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/77834936/129374165-3fb84cbb-875d-4155-bd07-ef717f568ae7.jpeg" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/77834936/129374167-f49e6954-7e25-41d9-a10e-5d8a09206395.jpeg" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/77834936/129374171-ba0cf3aa-5430-40ee-b75d-e7374cf471ad.jpeg" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/77834936/129374175-b4fd4105-bfb4-4472-a824-1e0f40184736.jpeg" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/77834936/129374178-c5446f3e-de80-4d4e-82d7-f20479b1d869.jpeg" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/77834936/129374181-78b76c1b-1c73-4555-9cb7-0646a6888c13.jpeg" width="400" height="700">
 
 # About the App
 The other day, a member of our team went to KMart to pick up a couple groceries and found themself in quite the predicament. They noticed KMart had three people dedicated just to managing this line, with two people at either door counting people. Meanwhile, everyone in line was getting anxious because it was unnerving to be in such close proximity to so many people (many not wearing masks) for such a long period of time, despite all social distancing precautions.
